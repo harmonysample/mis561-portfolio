@@ -16,3 +16,15 @@ At Southwest, I would use Excel for making small tables that colleagues need to 
 Card Portfolio Review – Contactless Readiness, Which non-contactless cards should Bear Down Bank replace early, how many are there, and what will it cost?, [a link to your published Tableau workbook](https://public.tableau.com/app/profile/harmony.sample/viz/CardPortfolioReviewContactlessReadiness_17924587807810/ExploratoryDash?publish=yes), If I were to do this again, I would start from the decision being made rather than exploring demographic variables first because income and geography turned out not to affect which cards belonged in the batch.
 
 Card Growth Analysis - Wildcat Reward Offer, Which group of existing Bear Down Bank customers should receive the Wildcat Rewards pilot mailing, and how many of them qualify under Credit Risk’s guardrails at the 670 FICO cutoff?, [a link to your published Tableau workbook](https://public.tableau.com/app/profile/harmony.sample/viz/CardGrowthAnalysis-WildcatRewardsOffer_17932545502600/ExploratoryDashboard), If I did it again, I would set a minimum customer count before ranking states by eligibility rate, so a state doesn’t look stronger than the data supports just because it has less customers.
+
+**Nov 2, 2026 · Data Storytelling with Adobe Express** 
+
+Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank, Replace 440 non-contactless cards now for 
+$3,520. Let the other 1,253 renew on 
+schedule.
+
+[Work sample (PDF)](file:///C:/Users/harmo/Downloads/sample-data-storytelling.pdf) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:US:e1f844d0-7e3f-4c8e-a94f-c24eed7160ae?accept=true&invite=true&promoid=Z2G1FQKR&mv=other) 
+
+Design choice: I used a quarterly bar chart that splits the 1,253 cards renewing by March 2027 from the 440 that won't, because Renee needs to see why the cutoff sits where it does. I considered the monthly timeline from my Tableau analysis, but 48 bars slowed the reader down.
+
+Training completed: November 2, 2026 
