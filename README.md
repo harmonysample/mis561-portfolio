@@ -29,4 +29,18 @@ schedule.
 
 Design choice: I used a quarterly bar chart that splits the 1,253 cards renewing by March 2027 from the 440 that won't, because Renee needs to see why the cutoff is where it is. I considered the monthly timeline from my Tableau analysis, but 48 bars slowed the reader down.
 
+AI Use: AI use: I used Claude (Opus 5.5) to generate logo concepts for Elpmas Solutions, mock up a page layout, and walk me through building my quarterly bar chart in Tableau. 
+
+Anthropic. (2026). Claude (Opus 5.5) [Large language model]. https://claude.ai
+
+Dates used: November 3–4, 2026
+
+Prompts:
+
+"can you create a logo for elpmas solutions? Hex colors: Arroyo Blue - HEX: 
+#106AB1 ; Rain - HEX: 
+81CEEB; fonts: Garamond Premier Pro ; Hepta Slab; make it creative and make it with the letters "ES""
+"can you just build a layout of wht the one pager should look like so i have an idea"
+"can you walk me through step by step how to build a quarterly bar chart in tableau"
+
 Training completed: November 2, 2026 
