@@ -23,7 +23,8 @@ Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank, R
 $3,520. Let the other 1,253 renew on 
 schedule.
 
-[Work sample (PDF)](file:///C:/Users/harmo/Downloads/sample-data-storytelling.pdf) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:US:e1f844d0-7e3f-4c8e-a94f-c24eed7160ae?accept=true&invite=true&promoid=Z2G1FQKR&mv=other) 
+[Work sample (PDF)](file:///C:/Users/harmo/Downloads/sample-data-storytelling.pdf)
+[Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:US:e1f844d0-7e3f-4c8e-a94f-c24eed7160ae?accept=true&invite=true&promoid=Z2G1FQKR&mv=other) 
 
 Design choice: I used a quarterly bar chart that splits the 1,253 cards renewing by March 2027 from the 440 that won't, because Renee needs to see why the cutoff sits where it does. I considered the monthly timeline from my Tableau analysis, but 48 bars slowed the reader down.
 
