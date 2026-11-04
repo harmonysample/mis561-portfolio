@@ -33,7 +33,7 @@ AI Use: AI use: I used Claude (Opus 5.5) to generate logo concepts for Elpmas So
 
 Anthropic. (2026). Claude (Opus 5.5) [Large language model]. https://claude.ai
 
-Dates used: November 3, 2026
+Dates used: November 2-3, 2026
 
 Prompts:
 
