@@ -23,7 +23,7 @@ Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank, R
 $3,520. Let the other 1,253 renew on 
 schedule.
 
-[Work sample (PDF)](C:/Users/harmo/Downloads/sample-data-storytelling.pdf)
+[Work sample (PDF)] (C:/Users/harmo/Downloads/sample-data-storytelling.pdf)
 
 [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:US:e1f844d0-7e3f-4c8e-a94f-c24eed7160ae?accept=true&invite=true&promoid=Z2G1FQKR&mv=other) 
 
