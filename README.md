@@ -23,7 +23,7 @@ Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank, R
 $3,520. Let the other 1,253 renew on 
 schedule.
 
-[Work sample (PDF)] (C:/Users/harmo/Downloads/sample-data-storytelling.pdf)
+[Work sample (PDF)](https://github.com/harmonysample/mis561-portfolio/blob/main/adobe/sample-data-storytelling.pdf)
 
 [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:US:e1f844d0-7e3f-4c8e-a94f-c24eed7160ae?accept=true&invite=true&promoid=Z2G1FQKR&mv=other) 
 
@@ -44,3 +44,15 @@ Prompts:
 "can you walk me through step by step how to build a quarterly bar chart in tableau"
 
 Training completed: November 2, 2026 
+
+November 18, 2026 · Product Pitch with Generative AI in Adobe Express
+
+Pitch to Renee Castillo, Director of Card Operations at Bear Down Bank: approve a six-week first phase to replace 440 non-contactless cards this quarter and track the other 1,253 through renewal.
+
+[Pitch deck (PDF)]([(https://github.com/harmonysample/mis561-portfolio/blob/main/adobe/sample-product-pitch.pdf)]) · [Adobe Express]([https://new.express.adobe.com/id/urn:aaid:sc:US:f5c86029-80dd-54e7-a8f7-544a514d6262?invite=true&accept=true&promoid=Z2G1FQKR&mv=other])
+
+Toughest objection: "Why spend $3,520 now when every card will renew on its own eventually?" Slide 3 answers this question. None of the 440 cards renew before April 2027, and 211 of them not until October 2027 or later, so waiting leaves them unable to tap for a year or more.
+
+AI use: Claude (Opus 5.5), Nov 18, 2026, to help brainstorm action titles and slide deck layout; Adobe Firefly, Nov 18, 2026, generated image to create a visual of a contactless card (didn't end up using the image because there were too many random numbers/logos that Firefly was adding).
+
+Training completed: November 18, 2026
