@@ -49,7 +49,9 @@ November 18, 2026 · Product Pitch with Generative AI in Adobe Express
 
 Pitch to Renee Castillo, Director of Card Operations at Bear Down Bank: approve a six-week first phase to replace 440 non-contactless cards this quarter and track the other 1,253 through renewal.
 
-[Pitch deck (PDF)]([(https://github.com/harmonysample/mis561-portfolio/blob/main/adobe/sample-product-pitch.pdf)]) · [Adobe Express]([https://new.express.adobe.com/id/urn:aaid:sc:US:f5c86029-80dd-54e7-a8f7-544a514d6262?invite=true&accept=true&promoid=Z2G1FQKR&mv=other])
+[Pitch deck (PDF)]([(https://github.com/harmonysample/mis561-portfolio/blob/main/adobe/sample-product-pitch.pdf)]) 
+
+[Adobe Express]([https://new.express.adobe.com/id/urn:aaid:sc:US:f5c86029-80dd-54e7-a8f7-544a514d6262?invite=true&accept=true&promoid=Z2G1FQKR&mv=other])
 
 Toughest objection: "Why spend $3,520 now when every card will renew on its own eventually?" Slide 3 answers this question. None of the 440 cards renew before April 2027, and 211 of them not until October 2027 or later, so waiting leaves them unable to tap for a year or more.
 
